@@ -7,7 +7,7 @@ namespace HelloWorldApp {
 
         static void Main(string[] args) { 
               
-            Console.WriteLine("Hello Hills"); 
+            Console.WriteLine("Hello Hills uwu"); 
             Console.ReadKey(); 
         } 
     } 
